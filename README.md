@@ -1,7 +1,7 @@
 # Telegram-Channel-Report-Sender
 Take down your target Telegram channels by this program
 
-Purchase it on my website : https://erfan4lx.com/product/.../
+Purchase it on my website : https://erfan4lx.com/product/Telegram-Channel-Report-Sender/
 
 Features :
 
